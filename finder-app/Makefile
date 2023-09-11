@@ -1,3 +1,5 @@
+#Nicholas Buckley Assignment 2 AESD makefile
+
 #The skeleton of this make file is from chat GPT-4 with the prompt 
 #"a make file that has the defualt target writer and a clean target which removes all .o files and the app with support for CROSS_COMPILE variable"
 
